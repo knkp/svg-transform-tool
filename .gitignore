@@ -1,0 +1,4 @@
+*env/*
+*svgs-to-process*
+*__pycache__*
+*output/*
